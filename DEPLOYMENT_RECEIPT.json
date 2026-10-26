@@ -1,0 +1,14 @@
+{
+  "project": "james-chadwick-ai",
+  "network": "Solana Devnet",
+  "cluster_url": "https://api.devnet.solana.com",
+  "mint_address": "2F7RFwsR5YMb48r9Wukd2soErYkTEdaCLC5awJfHnUPh",
+  "vault_account": "4sXT856LaB9K9Wg3DgKkovRCDwHzRYhevWxcYDeicRWx",
+  "initial_supply": 1000000,
+  "decimals": 9,
+  "creation_tx": "5rhBHkLdvkZUvbwydWaMNUEtkHBdUk8C6ise4GdQwv1EXHErhAP65rTnvhD3TXHxBfjmQuzeQ3eAokE91CHh6gBz",
+  "account_tx": "UswKWGxiJCvgVVoWnbSqqq13qoGEg8BHN6ZcwXhZR5GeS66GUQybjH4R1Wod6SaJt6jz1tqsmCfU7ccCJzhuawj",
+  "mint_tx": "4B9e23fvPcW6KwcTvnRan1Wmd3dBBUZdvFq3RgUtJDe38oLtNrcVc3sR9gLSJgnU8qZSeuZSRhQCLh8GaN4oGS42",
+  "solana_explorer_mint": "https://explorer.solana.com/address/2F7RFwsR5YMb48r9Wukd2soErYkTEdaCLC5awJfHnUPh?cluster=devnet",
+  "timestamp": "2026-10-26 16:42:41 UTC"
+}
